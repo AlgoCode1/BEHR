@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h1{
+    border: 5px solid rgb(0, 153, 8);
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+}
